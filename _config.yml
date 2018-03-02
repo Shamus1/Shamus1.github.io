@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: Treyver Reicha
+name: Shamus Schneider
 
 # Short bio or description (displayed in the header)
 description: Aspiring Programmer
@@ -18,10 +18,10 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: treicha22@gmail.com
+  email: natfish20@gmail.com
   facebook:
   flickr:
-  github: barryclark/jekyll-now
+  github: Shamus2
   instagram:
   linkedin:
   pinterest:
@@ -37,7 +37,7 @@ footer-links:
 disqus: http-editor-us-freenomgo-site-1
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics: UA-114988394-1
+google_analytics: 
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
